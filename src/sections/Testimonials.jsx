@@ -1,7 +1,7 @@
 // Modern Personal Portfolio @jdomingu19
 // Taught by @pedrotech
-// src/sections/Hero.jsx
+// src/sections/Testimonials.jsx
 
-export const Hero = () => {
+export const Testimonials = () => {
   return <section></section>;
 };

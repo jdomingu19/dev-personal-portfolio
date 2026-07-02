@@ -1,4 +1,4 @@
-// Developer Personal Portfolio @jdomingu19
+// Modern Personal Portfolio @jdomingu19
 // Taught by @pedrotech
 // src/sections/About.jsx
 

@@ -24,3 +24,9 @@ npx create-vite@latest
 ```bash
 npm install tailwindcss @tailwindcss/vite
 ```
+
+```bash
+npm install lucide-react
+```
+
+> Built with '\u{2665}' (♥) by Jesús Domínguez [@jdomingu19](https://github.com/jdomingu19/)
